@@ -20,6 +20,7 @@ then
 fi
 
 echo $dest
+echo "The change is done by ubuntu"
 # changes done by ubuntu
 echo "The change is done by root"
 files=`echo $*|rev|cut -d " " -f2-|rev`
