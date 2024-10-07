@@ -19,7 +19,7 @@ then
 
 fi
 
-
+echo $dest2
 # changes done by ubuntu
 files=`echo $*|rev|cut -d " " -f2-|rev`
 echo $files
