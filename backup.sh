@@ -74,3 +74,6 @@ else
 fi
 
 done
+
+
+echo "commit3 by root"
