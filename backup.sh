@@ -1,4 +1,4 @@
-# usage: <this_program> <file1> <file2> <directory_the_backup_to_be_taken>
+### usage: <this_program> <file1> <file2> <directory_the_backup_to_be_taken>
 ################
 
 clear
