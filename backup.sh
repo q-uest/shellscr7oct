@@ -74,6 +74,5 @@ else
 fi
 
 done
-
-
 echo "commit3 by root"
+echo "commit3 by ubuntu"
