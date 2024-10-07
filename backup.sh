@@ -21,6 +21,7 @@ fi
 
 echo $dest
 # changes done by ubuntu
+echo "The change is done by root"
 files=`echo $*|rev|cut -d " " -f2-|rev`
 echo $files
 
